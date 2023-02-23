@@ -79,7 +79,7 @@
           <processTypes>
             <web>java -Dserver.port=$PORT $JAVA_OPTS -cp target/classes:target/dependency/* com.salesforce.connector.Application</web>
           </processTypes>
-          <appName>glacial-dawn-73028</appName>
+          <appName>pacific-basin-85807</appName>
         </configuration>
       </plugin>
       <plugin>

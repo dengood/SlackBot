@@ -175,3 +175,4 @@ You can test by sending a message in slack to the bot!
 None of the keys mentioned anywhere in this repo work. They are just samples with the correct number of characters
 
 There is a Makefile in this repo that can help with some commands.
+"# SlackBot" 
